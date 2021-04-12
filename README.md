@@ -1,7 +1,7 @@
 # SDLC Activity Based Learning
 
 
-[image](https://user-images.githubusercontent.com/82046396/114385805-155d8f80-9bae-11eb-9e44-48e6161373ec.png)
+![image](https://user-images.githubusercontent.com/82046396/114385805-155d8f80-9bae-11eb-9e44-48e6161373ec.png)
 
 
 Visit [Pages for Report -optional](using github.io option)
