@@ -1,6 +1,9 @@
 # SDLC Activity Based Learning
 
 
+[image](https://user-images.githubusercontent.com/82046396/114385805-155d8f80-9bae-11eb-9e44-48e6161373ec.png)
+
+
 Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
@@ -34,10 +37,6 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
-
-
-
-![image](https://user-images.githubusercontent.com/82046396/114385805-155d8f80-9bae-11eb-9e44-48e6161373ec.png)
 
 
 
