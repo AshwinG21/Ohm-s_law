@@ -20,15 +20,12 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`256131` | Arnob Chowdhury  | Feature A, B etc    | X No     | X No   |X No   |X No     
+`259796` | Ashwin G  | Colour Code   | No    | No   |No   |No     
    
 
 ## Challenges Faced and How Was It Overcome
 
-1. ABC
-2. BCD
-3. ...
-4. ...
+1. Differentiating the bands on the resistor
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -40,4 +37,7 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 
 ![image](https://user-images.githubusercontent.com/82046396/114385805-155d8f80-9bae-11eb-9e44-48e6161373ec.png)
+
+
+
 
