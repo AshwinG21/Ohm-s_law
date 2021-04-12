@@ -25,7 +25,8 @@ SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 
 ## Challenges Faced and How Was It Overcome
 
-1. Differentiating the bands on the resistor
+1. Differentiating the bands on the resistor.
+2. Accurancy in resistance value found versus actual resistance 
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
