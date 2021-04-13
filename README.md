@@ -10,7 +10,6 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/arc-AshwinG21/Ohm-s_Law/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-AshwinG21/Ohm-s_Law/actions/workflows/c-cpp.yml) | To be added | To be added | To be added
 
 
 ## Folder Structure
