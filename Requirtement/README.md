@@ -39,4 +39,5 @@ OHM'S law is perhaps the most popularly known of all the laws,theories,and princ
 
 ## **SWOT Analysis**
 
+Requirtement/SWOT.jpg
 
