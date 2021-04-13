@@ -68,14 +68,14 @@ May-June 1998
 
 In the low level requirement, we must know the knowledge of bands of resistors and their individual value of resistances.
 
-https://github.com/AshwinG21/Ohm-s_law/blob/b9855c90a2c29e89d9bbe7969eedb79adaad978a/Requirtement/Low%20level%20requirement.gif
+![image](https://github.com/AshwinG21/Ohm-s_law/blob/b9855c90a2c29e89d9bbe7969eedb79adaad978a/Requirtement/Low%20level%20requirement.gif)
 
 
 ## ***HIGH LEVEL REQUIREMENT***
 
 In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances.
 
-https://github.com/AshwinG21/Ohm-s_law/blob/5fadd72d139c26e2956673d06e4d44da22231650/Requirtement/high_level_requirement.png
+![image](https://github.com/AshwinG21/Ohm-s_law/blob/5fadd72d139c26e2956673d06e4d44da22231650/Requirtement/high_level_requirement.png)
 
 
 
