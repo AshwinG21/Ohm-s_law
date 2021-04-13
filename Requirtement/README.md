@@ -39,5 +39,5 @@ OHM'S law is perhaps the most popularly known of all the laws,theories,and princ
 
 ## **SWOT Analysis**
 
-Requirtement/SWOT.jpg
 
+https://github.com/AshwinG21/Ohm-s_law/blob/a635ef046f7b270aca06b7e48caaee2e4b9ed68f/Requirtement/SWOT.jpg
