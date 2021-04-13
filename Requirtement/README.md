@@ -18,7 +18,7 @@ Two of the basic laws that mathematically describe the performance of electric c
 
 ### Mathematically, this current-voltage relationship can be written as,
 
-Ohm's Law Equation          --color V = IR
+Ohm's Law Equation          .bg-blueV = IR
 
 In the equation, the constant of proportionality, R is Resistance and has units of ohms, with symbol Ω.
 
