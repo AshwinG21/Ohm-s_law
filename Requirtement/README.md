@@ -18,15 +18,18 @@ Two of the basic laws that mathematically describe the performance of electric c
 
 ### Mathematically, this current-voltage relationship can be written as,
 
-Ohm's Law Equation          ### V = IR
+Ohm's Law Equation          
+### V = IR
 
 In the equation, the constant of proportionality, R is Resistance and has units of ohms, with symbol Ω.
 
 The same formula can be rewritten in order to calculate the current and resistance respectively as follows:
 
-Ohm's Law Equation          ### I = V/R
+Ohm's Law Equation          
+### I = V/R
 
-Ohm's Law Equation          ### R = V/I
+Ohm's Law Equation          
+### R = V/I
 
 ## **Research**
 Ohm's law is a relationship between the voltage across an electric circuit, the electrical resistance in the circuit, and the current in the circuit. This law is named after its discoverer, Georg Simon Ohm. Ohm found that for most electric circuits, the voltage across the circuit was equal to the current flowing through the circuit times the electrical resistance of the circuit. For the same voltage, a circuit with a low resistance will have a higher current than a circuit with a higher resistance. The voltage, properly called the potential difference, is measured in volts, and the current in amperes (amps). The resistance is therefore in volts per ampere, which is defined as ohms.
