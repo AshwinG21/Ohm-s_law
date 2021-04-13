@@ -41,3 +41,24 @@ OHM'S law is perhaps the most popularly known of all the laws,theories,and princ
 
 
 https://github.com/AshwinG21/Ohm-s_law/blob/a635ef046f7b270aca06b7e48caaee2e4b9ed68f/Requirtement/SWOT.jpg
+
+
+## ** 4W AND 1H**
+
+### WHO:
+GEORGE SIMON OHM(INVENTOR)
+
+1.L.A. Geddes
+Hillenbrand Biomedical Engineering Center, Purdue University, West Lafayette, IN
+2.L.E. Geddes
+School of Nursing, Purdue University
+
+### WHERE:
+IEEE Engineering in Medicine and Biology Magazine ( Volume: 17, Issue: 3, May-June 1998)
+
+
+### WHAT:
+Ohm’s law states that the voltage across a conductor is directly proportional to the current flowing through it, provided all physical conditions and temperature remain constant.
+
+### WHEN:
+May-June 1998
