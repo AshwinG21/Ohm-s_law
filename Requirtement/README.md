@@ -75,6 +75,8 @@ https://github.com/AshwinG21/Ohm-s_law/blob/b9855c90a2c29e89d9bbe7969eedb79adaad
 
 In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances.
 
+https://github.com/AshwinG21/Ohm-s_law/blob/5fadd72d139c26e2956673d06e4d44da22231650/Requirtement/high_level_requirement.png
+
 
 
 
