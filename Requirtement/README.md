@@ -34,9 +34,9 @@ Ohm's Law Equation
 ## **Research**
 Ohm's law is a relationship between the voltage across an electric circuit, the electrical resistance in the circuit, and the current in the circuit. This law is named after its discoverer, Georg Simon Ohm. Ohm found that for most electric circuits, the voltage across the circuit was equal to the current flowing through the circuit times the electrical resistance of the circuit. For the same voltage, a circuit with a low resistance will have a higher current than a circuit with a higher resistance. The voltage, properly called the potential difference, is measured in volts, and the current in amperes (amps). The resistance is therefore in volts per ampere, which is defined as ohms.
 It is important to understand that Ohm's law is not a fundamental law that always applies, such as the law of gravity.
-OHM'S law is perhaps the most popularly known of all the laws,theories,and principles of electrical sciences.The law forms the starting point in the study of electrical networks,and it has reserved,forever,a place of honor for Georg Simon Ohm(1789-1854) in the history of science.The year 1976 marked the 150th anniversary of Ohm'slaw.
+OHM'S law is perhaps the most popularly known of all the laws,theories,and principles of electrical sciences.The law forms the starting point in the study of electrical networks,and it has reserved,forever,a place of honor for Georg Simon Ohm(1789-1854) in the history of science.The year 1976 marked the 150th anniversary of Ohm's law.
 
 
-
+## **SWOT Analysis**
 
 
