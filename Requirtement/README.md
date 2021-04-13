@@ -1,4 +1,4 @@
-# **Introduction**
+# **INTRODUCTION**
 
 An Electric Circuit is a closed path for transmitting an electric current through the medium of electrical and magnetic fields. An electric circuit includes a device that gives energy to the charged particles constituting the current, such as a battery or a generator; devices that use current, such as lamps, electric motors, or computers; and the connecting wires or transmission lines. Circuital elements are classified into active or passive elements, based on their capability to generate energy.
 **Active Elements** are those which can generate energy. Examples include batteries, generators, operational amplifiers and diodes. Note that in an electrical circuit, the source elements are the most significant active elements.
@@ -37,7 +37,7 @@ It is important to understand that Ohm's law is not a fundamental law that alway
 OHM'S law is perhaps the most popularly known of all the laws,theories,and principles of electrical sciences.The law forms the starting point in the study of electrical networks,and it has reserved,forever,a place of honor for Georg Simon Ohm(1789-1854) in the history of science.The year 1976 marked the 150th anniversary of Ohm's law.
 
 
-## **SWOT Analysis**
+## **SWOT ANALYSIS**
 
 
 https://github.com/AshwinG21/Ohm-s_law/blob/a635ef046f7b270aca06b7e48caaee2e4b9ed68f/Requirtement/SWOT.jpg
@@ -62,3 +62,10 @@ Ohm’s law states that the voltage across a conductor is directly proportional 
 
 ### WHEN:
 May-June 1998
+
+
+## ***LOW LEVEL REQUIREMENT***
+
+In the low level requirement, we must know the knowledge of bands of resistors and their individual value of resistances.
+
+
