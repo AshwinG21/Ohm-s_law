@@ -25,7 +25,7 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`259881` | Uttam R   | Color coding of Resistors    |  No     |  No   | No   | No     
+`259796 | Ashwin G  | Color coding of Resistors    |  No     |  No   | No   | No     
    
 
 ## Challenges Faced and How Was It Overcome
