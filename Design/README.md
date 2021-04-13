@@ -9,6 +9,6 @@
 
 ## ***HIGH LEVEL DESIGN***
 
-![image](https://github.com/AshwinG21/Ohm-s_law/blob/c589ba12a3a7a42dfd99768da62de06ea85c350d/Design/high_level_design_1.png)
+![image](https://github.com/AshwinG21/Ohm-s_law/blob/c056ae447c7f43f6f10ac5b4d79223a4ad2503e9/Design/HIGH_LEVEL_DESIGN.svg)
 
 
