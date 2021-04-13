@@ -4,7 +4,7 @@
 
 
 
-![image](https://github.com/AshwinG21/Ohm-s_law/blob/e0b5974aa3767751cde7bb0a37c501f9bc6eca1a/Design/low_level_design_2.jpg)
+![image](https://github.com/AshwinG21/Ohm-s_law/blob/a1ce6c60d67fc02230ee6747f6fa4234dda7cedd/Design/LOW_LEVEL_DESIGN.jpg)
 
 
 ## ***HIGH LEVEL DESIGN***
