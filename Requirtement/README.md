@@ -71,3 +71,10 @@ In the low level requirement, we must know the knowledge of bands of resistors a
 https://github.com/AshwinG21/Ohm-s_law/blob/b9855c90a2c29e89d9bbe7969eedb79adaad978a/Requirtement/Low%20level%20requirement.gif
 
 
+## ***HIGH LEVEL REQUIREMENT***
+
+In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances.
+
+
+
+
