@@ -1,4 +1,4 @@
-# **INTRODUCTION**
+# ***INTRODUCTION***
 
 An Electric Circuit is a closed path for transmitting an electric current through the medium of electrical and magnetic fields. An electric circuit includes a device that gives energy to the charged particles constituting the current, such as a battery or a generator; devices that use current, such as lamps, electric motors, or computers; and the connecting wires or transmission lines. Circuital elements are classified into active or passive elements, based on their capability to generate energy.
 **Active Elements** are those which can generate energy. Examples include batteries, generators, operational amplifiers and diodes. Note that in an electrical circuit, the source elements are the most significant active elements.
@@ -31,19 +31,19 @@ Ohm's Law Equation
 Ohm's Law Equation          
 ### R = V/I
 
-## **Research**
+## ***Research***
 Ohm's law is a relationship between the voltage across an electric circuit, the electrical resistance in the circuit, and the current in the circuit. This law is named after its discoverer, Georg Simon Ohm. Ohm found that for most electric circuits, the voltage across the circuit was equal to the current flowing through the circuit times the electrical resistance of the circuit. For the same voltage, a circuit with a low resistance will have a higher current than a circuit with a higher resistance. The voltage, properly called the potential difference, is measured in volts, and the current in amperes (amps). The resistance is therefore in volts per ampere, which is defined as ohms.
 It is important to understand that Ohm's law is not a fundamental law that always applies, such as the law of gravity.
 OHM'S law is perhaps the most popularly known of all the laws,theories,and principles of electrical sciences.The law forms the starting point in the study of electrical networks,and it has reserved,forever,a place of honor for Georg Simon Ohm(1789-1854) in the history of science.The year 1976 marked the 150th anniversary of Ohm's law.
 
 
-## **SWOT ANALYSIS**
+## ***SWOT ANALYSIS***
 
 
 https://github.com/AshwinG21/Ohm-s_law/blob/a635ef046f7b270aca06b7e48caaee2e4b9ed68f/Requirtement/SWOT.jpg
 
 
-## ** 4W AND 1H**
+## ***4W AND 1H***
 
 ### WHO:
 GEORGE SIMON OHM(INVENTOR)
@@ -67,5 +67,7 @@ May-June 1998
 ## ***LOW LEVEL REQUIREMENT***
 
 In the low level requirement, we must know the knowledge of bands of resistors and their individual value of resistances.
+
+https://github.com/AshwinG21/Ohm-s_law/blob/b9855c90a2c29e89d9bbe7969eedb79adaad978a/Requirtement/Low%20level%20requirement.gif
 
 
