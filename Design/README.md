@@ -15,5 +15,16 @@
  
 ![image](https://user-images.githubusercontent.com/67604549/114698864-30aad500-9d3d-11eb-9180-e93c8b608da2.png)
 
+--------------------------------------------------------------------------------------------------------------------------
+
+Here in our project we make use of few annotations. The annoations are as follows:
+
+V = Voltage
+I = Current
+R = Resistance
+mA = Milliamps current
+v = Volts
+
+
 
 
