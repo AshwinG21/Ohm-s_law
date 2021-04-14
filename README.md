@@ -20,7 +20,8 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
-## Contributors List and SumSF Id. |  Name                  | No.  |  Features                          | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+## Contributors List and Sum
+SF Id. |  Name                  | No.  |  Features                          | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|------------------------|------|------------------------------------|----------------|---------------|-------------|--------------
 `259796` | Ashwin G          |1.    |Calculate Total series Resistance   |  1            |  1          | 4          | 4    
 `259796` | Ashwin G          |2.    |Calculate Total Parallel Resistance  |  0            |  0           | 3         | 3   
