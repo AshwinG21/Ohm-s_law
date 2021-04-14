@@ -20,11 +20,13 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 
-## Contributors List and Summary
+## Contributors List and SumSF Id. |  Name                  | No.  |  Features                          | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|------------------------|------|------------------------------------|----------------|---------------|-------------|--------------
+`259796` | Ashwin G          |1.    |Calculate Total series Resistance   |  1            |  1          | 4          | 4    
+`259796` | Ashwin G          |2.    |Calculate Total Parallel Resistance  |  0            |  0           | 3         | 3   
+`259796` | Ashwin G          |3.    |Calculate Resistance based on voltage and current(Ohm's law) |  1            |  1          | 3          | 3    
+`259796` | Ashwin G          |4.    |Calculate Resistance based on color code |  1            |  1          | 3         | 3     
 
-SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-`259796 | Ashwin G  | Color coding of Resistors    |  No     |  No   | No   | No     
    
 
 ## Challenges Faced and How Was It Overcome
