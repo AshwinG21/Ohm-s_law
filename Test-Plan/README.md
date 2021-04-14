@@ -12,6 +12,6 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |Suppose we want to find the exact resistance through a device |V = 5V, I = 1mA|5 KILO OHMS|5 KILO OHMS    |Requirement based |
+|  L_01       |Suppose we want to find the exact resistance through a device |V = 5v, I = 1mA|5 KILO OHMS|5 KILO OHMS    |Requirement based |
 |  L_02       |Supppose a company asks to design two 20 kilo ohms resistors in series|R1 = 20KILO OHMS, R2 = 20 KILO OHMS|40 KILO OHMS|40 KILO OHMS|Scenario based    |
-|  L_03       |Suppose a situation arises wherein we need 1.1 kilo ohm resistor. Then we connect two 2.2k resistors in parallel|R1 = 2.2 KILO OHMS, R2 = 2.2 KILO OHMS|1.2KILO OHMS|1.1 KILO OHMS|Boundary based    |
+|  L_03       |Suppose a situation arises wherein we need 1.1 kilo ohm resistor. Then we connect two 2.2 kilo ohms resistors in parallel|R1 = 2.2 KILO OHMS, R2 = 2.2 KILO OHMS|1.2KILO OHMS|1.1 KILO OHMS|Boundary based    |
