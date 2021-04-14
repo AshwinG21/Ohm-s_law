@@ -10,7 +10,7 @@ Visit [Pages for Report -optional](using github.io option)
 
 Build | [Git Inspector](using github.io option) | Unity | cppcheck|Valgrind|Codacy|
 ------|----------|----|---|------|--------|
-
+|[![C/C++ CI](https://img.shields.io/badge/C%2FC%2B%2B%20CI-passing-green)]
 
 ## Folder Structure
 Folder             | Description
