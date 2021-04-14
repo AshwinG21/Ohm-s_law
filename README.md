@@ -8,8 +8,8 @@
  
 Visit [Pages for Report -optional](using github.io option)
 
-Build | Code Quality | Unity | [Git Inspector](using github.io option)
-------|----------|-------|--------------
+Build | [Git Inspector](using github.io option) | Unity | cppcheck|Valgrind|Codacy|
+------|----------|----|---|------|--------|
 
 
 ## Folder Structure
