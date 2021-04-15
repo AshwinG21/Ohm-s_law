@@ -17,49 +17,6 @@
 
 --------------------------------------------------------------------------------------------------------------------------
 
-Here in our project we make use of few annotations. The annoations are as follows:
-
-V = Voltage
-
------------
-I = Current
-
-------------
-R = Resistance
-
---------------
-mA = Milliamps current
-
------------------------
-v = Volts
-
------------------------
-For colour coding of resistors, the annotations used are:
-
----------------------------------------------------------
-
-BL = Black
-
--------------
-BR = Brown
-
-----------
-R = Red
-
-----------
-O = Orange
-
-------------
-Y = Yellow
-
-------------
-G = Grey
-
-------------
-W = White
-
--------------
-BLU = Blue
 
 
 
